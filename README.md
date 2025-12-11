@@ -13,10 +13,7 @@ It includes data extraction, cleaning, visualization, statistical analysis, and 
 - Handles missing values.
 - Extracts and stores **closing prices**.
 - Computes **daily percentage returns**.
-- Resamples prices to **monthly frequency** with:
-  - Monthly close
-  - Monthly absolute change
-  - Monthly percentage change
+- Resamples prices to **monthly frequency**
 
 ### **3. Exploratory Data Analysis (EDA)**
 - Line charts of closing prices.
