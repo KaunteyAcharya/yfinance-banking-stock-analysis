@@ -1,4 +1,4 @@
-## Banking Stocks Analysis using Yahoo Finance (yfinance)
+## Banking Stocks Analysis using Yahoo Finance (**yfinance**)
 
 This project performs a complete quantitative analysis of major Indian and global banking sector stocks using the **yfinance** Python library.  
 It includes data extraction, cleaning, visualization, statistical analysis, and return-based performance metrics.
